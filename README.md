@@ -13,6 +13,10 @@ Click picure to watch video now :arrow_down:
 
 [![Watch the video](https://img.youtube.com/vi/xbv79ZG3r8k/maxresdefault.jpg)](https://youtu.be/xbv79ZG3r8k)
 ## Design Thinking (Low Fidelity Prototype)
+### Design Thinking Report:
+### Figma Link:https://stand-union-51665204.figma.site
+### Figma Link 2:https://radio-decay-38175623.figma.site
+### Video
 Click picure to watch video now :arrow_down:
 
 [![Watch the video](https://img.youtube.com/vi/a2B5yjDJKkA/maxresdefault.jpg)](https://youtu.be/a2B5yjDJKkA)
