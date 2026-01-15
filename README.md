@@ -16,7 +16,7 @@ This the poster about the Industry talk organise by PPG
 ### Reflection
 
 ## Industry Talk 2
-### Academic Writing:[Assignment 3 Report System Development SEC09 (1).docx](https://github.com/user-attachments/files/24633149/Assignment.3.Report.System.Development.SEC09.1.docx)
+### Academic Writing:
 ### Reflection
 
 ## Industry Visit 1
