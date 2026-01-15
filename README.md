@@ -29,6 +29,8 @@ Click picure to watch video now :arrow_down:
 
 ## Industrial Visit 2
 ### Industrial Visit 2 Newspaper
+![Image](https://github.com/user-attachments/assets/6988850d-38ab-4fce-81c0-f5655e9d38ed)
+![Image](https://github.com/user-attachments/assets/a9eb6f10-a0c8-40d6-8c9e-d7465075c04d)
 ### Reflection
 
 ## Design Thinking (Low Fidelity Prototype)
