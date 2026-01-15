@@ -6,6 +6,8 @@ Below are the quiz on PC Assemble after our PC Assemble Lab :arrow_down:
 
 ![Image](https://github.com/user-attachments/assets/4fdbfe05-cecc-4924-bdd1-476a30144334)
 
+### Reflection
+I'm happy to learn about how the structure inside the PC not only just reading but try to disassemble and reassemble it again with my friends.
 ## Industry Talk
 
 ## Industry Visit
