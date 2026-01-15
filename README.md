@@ -20,7 +20,7 @@ This the poster about the Industry talk organise by PPG
 
 ## Industry Visit 1
 ### Video
-Click picure to watch video now :arrow_down:
+Click picture to watch video now :arrow_down:
 
 [![Watch the video](https://img.youtube.com/vi/xbv79ZG3r8k/maxresdefault.jpg)](https://youtu.be/xbv79ZG3r8k)
 
@@ -34,7 +34,7 @@ Click picure to watch video now :arrow_down:
 
 ## Design Thinking (Low Fidelity Prototype)
 ### Video
-Click picure to watch video now :arrow_down:
+Click picture to watch video now :arrow_down:
 
 [![Watch the video](https://img.youtube.com/vi/a2B5yjDJKkA/maxresdefault.jpg)](https://youtu.be/a2B5yjDJKkA)
 
