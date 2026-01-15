@@ -32,12 +32,13 @@ Click picure to watch video now :arrow_down:
 ### Reflection
 
 ## Design Thinking (Low Fidelity Prototype)
-### Design Thinking Report:[Design.Thinking.Report.pdf.pdf](https://github.com/user-attachments/files/24631505/Design.Thinking.Report.pdf.pdf)
-### Figma Link:https://stand-union-51665204.figma.site
-### Figma Link 2:https://radio-decay-38175623.figma.site
 ### Video
 Click picure to watch video now :arrow_down:
 
 [![Watch the video](https://img.youtube.com/vi/a2B5yjDJKkA/maxresdefault.jpg)](https://youtu.be/a2B5yjDJKkA)
+
+### Design Thinking Report:[Design.Thinking.Report.pdf.pdf](https://github.com/user-attachments/files/24631505/Design.Thinking.Report.pdf.pdf)
+### Figma Link:https://stand-union-51665204.figma.site
+### Figma Link 2:https://radio-decay-38175623.figma.site
 
 ### Reflection
