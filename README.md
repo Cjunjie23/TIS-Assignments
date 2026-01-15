@@ -12,6 +12,7 @@ I'm happy to learn about how the structure inside the PC not only just reading b
 This the poster about the Industry talk organise by PPG
 ### Poster
 ![Image](https://github.com/user-attachments/assets/b233304b-5fc6-47e3-aca0-e7c5184b06cd)
+### Industry Talk Report:[Industry.Talk2.Report.pdf](https://github.com/user-attachments/files/24631671/Industry.Talk2.Report.pdf)
 ### Reflection
 ## Industry Visit
 ### Video
