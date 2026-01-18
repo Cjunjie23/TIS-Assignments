@@ -13,10 +13,12 @@ This the poster about the Industry talk organise by PPG
 ### Poster
 ![Image](https://github.com/user-attachments/assets/b233304b-5fc6-47e3-aca0-e7c5184b06cd)
 ### Reflection
+The talk held by PPG open my mind about the IT jobs provide the more wide market for other industries and also the ICT act importants in those IT jobs.
 
 ## Industry Talk 2
 ### Academic Writing:[Industry.Talk2.Report.pdf](https://github.com/user-attachments/files/24633209/Industry.Talk2.Report.pdf)
 ### Reflection
+Mr. Abdul Alim who speech for this talk explain me about how important the System Development to his past projects experienced and his advices really beneficial for me to having a mindset about the procedure of an random development project.
 
 ## Industry Visit 1
 ### Video
@@ -31,6 +33,7 @@ Click picture to watch video now :arrow_down:
 ![Image](https://github.com/user-attachments/assets/a9eb6f10-a0c8-40d6-8c9e-d7465075c04d)
 ![Image](https://github.com/user-attachments/assets/6988850d-38ab-4fce-81c0-f5655e9d38ed)
 ### Reflection
+This visit was fun for me to appeal that the langguages or code using by Johorport, and also the projects done by UTM Dr and senior also make me proud, the future projects of combination between Johorport with AI suprised me too.
 
 ## Design Thinking (Low Fidelity Prototype)
 ### Video
@@ -43,3 +46,4 @@ Click picture to watch video now :arrow_down:
 ### Figma Link 2:https://radio-decay-38175623.figma.site
 
 ### Reflection
+This prototype and design project was an unforgetable memory of me and my groups and we were sastified the project's prototype ,look forward for the next chances for us to having project future.
